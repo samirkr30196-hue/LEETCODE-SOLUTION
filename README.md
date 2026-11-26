@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/samirkr30196-hue/LEETCODE-SOLUTION/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/samirkr30196-hue/LEETCODE-SOLUTION/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
 | ------- |
@@ -14,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/samirkr30196-hue/LEETCODE-SOLUTION/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/samirkr30196-hue/LEETCODE-SOLUTION/tree/master/0009-palindrome-number) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/samirkr30196-hue/LEETCODE-SOLUTION/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
